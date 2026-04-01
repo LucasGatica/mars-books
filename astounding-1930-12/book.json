@@ -45,11 +45,16 @@
   "gutenbergUrl": "https://www.gutenberg.org/ebooks/30691",
   "images": [
     {
-      "before": "before-01.jpg",
-      "after": "after-01.jpg",
+      "before": "image1antes.jpeg",
+      "after": "image1depois.jpeg",
       "caption": "Creatures of the Light - Ilustracao de capa"
+    },
+    {
+      "before": "image2antes.jpeg",
+      "after": "image2depois.jpeg",
+      "caption": "The Pirate Planet - Ilustracao interna"
     }
   ],
   "status": "published",
-  "cover": "https://www.gutenberg.org/cache/epub/30691/pg30691.cover.medium.jpg"
+  "cover": "dezembro1930.jpeg"
 }
