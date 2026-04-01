@@ -1,0 +1,31 @@
+{
+  "id": "astounding-1931-02",
+  "title": "Astounding Stories of Super-Science",
+  "month": "February",
+  "monthPt": "Fevereiro",
+  "year": 1931,
+  "synopsis": "Fevereiro de 1931 traz uma das edicoes mais emocionantes da revista, com historias de mundos subaquaticos, invasoes alienigenas e cientistas loucos que ousaram desafiar as leis da natureza.",
+  "authors": [
+    "Murray Leinster",
+    "S. P. Meek",
+    "Tom Curry",
+    "Harl Vincent"
+  ],
+  "stories": [
+    { "title": "The Invisible City", "author": "Murray Leinster" },
+    { "title": "The Cave of Horror", "author": "S. P. Meek" },
+    { "title": "Beyond the Heaviside Layer", "author": "Tom Curry" },
+    { "title": "The Terror from Below", "author": "Harl Vincent" }
+  ],
+  "downloads": {
+    "pdf": ""
+  },
+  "downloadsPt": {
+    "pdf": ""
+  },
+  "uiclapUrl": "https://www.uiclap.com",
+  "uiclapUrlEn": "https://www.uiclap.com",
+  "gutenbergUrl": "https://www.gutenberg.org/ebooks/30691",
+  "images": [],
+  "status": "published"
+}

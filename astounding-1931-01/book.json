@@ -1,0 +1,31 @@
+{
+  "id": "astounding-1931-01",
+  "title": "Astounding Stories of Super-Science",
+  "month": "January",
+  "monthPt": "Janeiro",
+  "year": 1931,
+  "synopsis": "Na edicao de janeiro de 1931, a Astounding nos apresenta aventuras interplanetarias e maquinas extraordinarias que desafiavam os limites da imaginacao humana. Uma leitura obrigatoria para os fas dos primordios da ficcao cientifica.",
+  "authors": [
+    "Charles Willard Diffin",
+    "Victor Rousseau",
+    "R. F. Starzl",
+    "Sewell Peaslee Wright"
+  ],
+  "stories": [
+    { "title": "The Revolt of the Machines", "author": "Victor Rousseau" },
+    { "title": "The Planet of Dread", "author": "R. F. Starzl" },
+    { "title": "The Forgotten Planet", "author": "Sewell Peaslee Wright" },
+    { "title": "Dark Moon", "author": "Charles Willard Diffin" }
+  ],
+  "downloads": {
+    "pdf": ""
+  },
+  "downloadsPt": {
+    "pdf": ""
+  },
+  "uiclapUrl": "https://www.uiclap.com",
+  "uiclapUrlEn": "https://www.uiclap.com",
+  "gutenbergUrl": "https://www.gutenberg.org/ebooks/30691",
+  "images": [],
+  "status": "published"
+}

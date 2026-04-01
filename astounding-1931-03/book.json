@@ -1,0 +1,31 @@
+{
+  "id": "astounding-1931-03",
+  "title": "Astounding Stories of Super-Science",
+  "month": "March",
+  "monthPt": "Marco",
+  "year": 1931,
+  "synopsis": "Marco de 1931: exploradores espaciais, criatures de outros mundos e tecnologias que anteviram o futuro com impressionante precisao. Esta edicao e considerada uma das mais importantes da historia da revista.",
+  "authors": [
+    "Charles Willard Diffin",
+    "Anthony Gilmore",
+    "Jack Williamson",
+    "R. F. Starzl"
+  ],
+  "stories": [
+    { "title": "Brood of the Dark Moon", "author": "Charles Willard Diffin" },
+    { "title": "The Space Hawk", "author": "Anthony Gilmore" },
+    { "title": "Through the Purple Cloud", "author": "Jack Williamson" },
+    { "title": "Out of the Void", "author": "R. F. Starzl" }
+  ],
+  "downloads": {
+    "pdf": ""
+  },
+  "downloadsPt": {
+    "pdf": ""
+  },
+  "uiclapUrl": "https://www.uiclap.com",
+  "uiclapUrlEn": "https://www.uiclap.com",
+  "gutenbergUrl": "https://www.gutenberg.org/ebooks/30691",
+  "images": [],
+  "status": "published"
+}

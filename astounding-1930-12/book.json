@@ -1,0 +1,39 @@
+{
+  "id": "astounding-1930-12",
+  "title": "Astounding Stories of Super-Science",
+  "month": "December",
+  "monthPt": "Dezembro",
+  "year": 1930,
+  "synopsis": "A edicao de dezembro de 1930 da lendaria revista Astounding traz contos que definiram o genero da ficcao cientifica. Criaturas de luz, planetas piratas e mundos subterraneos aguardam o leitor nesta colecao historica, agora traduzida e remasterizada para o portugues.",
+  "authors": [
+    "Sophie Wenzel Ellis",
+    "Charles Willard Diffin",
+    "S. P. Meek",
+    "Harl Vincent",
+    "David R. Sparks"
+  ],
+  "stories": [
+    { "title": "Creatures of the Light", "author": "Sophie Wenzel Ellis" },
+    { "title": "The Pirate Planet", "author": "Charles Willard Diffin" },
+    { "title": "Submarines of 2060", "author": "S. P. Meek" },
+    { "title": "Gray Denim", "author": "Harl Vincent" },
+    { "title": "The Ape-Men of Dohlaan", "author": "David R. Sparks" }
+  ],
+  "downloads": {
+    "pdf": ""
+  },
+  "downloadsPt": {
+    "pdf": ""
+  },
+  "uiclapUrl": "https://www.uiclap.com",
+  "uiclapUrlEn": "https://www.uiclap.com",
+  "gutenbergUrl": "https://www.gutenberg.org/ebooks/30691",
+  "images": [
+    {
+      "before": "before-01.jpg",
+      "after": "after-01.jpg",
+      "caption": "Creatures of the Light - Ilustracao de capa"
+    }
+  ],
+  "status": "published"
+}
