@@ -1,10 +1,10 @@
 {
   "id": "astounding-1930-12",
-  "title": "Astounding ENTENTKENEKITe",
+  "title": "Astounding Stories Of Super-Science",
   "month": "December",
   "monthPt": "Dezembro",
   "year": 1930,
-  "synopsis": "A edicao de dezembro de 1930 da lendaria revista Astounding traz contos que definiram o genero da ficcao cientifica. Criaturas de luz, planetas piratas e mundos subterraneos aguardam o leitor nesta colecao historica, agora traduzida e remasterizada para o portugues.",
+  "synopsis": "A edicao de dezembro de 1930 da lendaria revista Astounding traz contos que definiram o genero da ficcao cientifica, agora traduzida e remasterizada para o portugues.",
   "authors": [
     "Sophie Wenzel Ellis",
     "Charles Willard Diffin",
@@ -14,7 +14,7 @@
   ],
   "stories": [
     {
-      "title": "Creatures of the Light",
+      "title": "Slaves Of The Dust",
       "author": "Sophie Wenzel Ellis"
     },
     {
@@ -22,7 +22,7 @@
       "author": "Charles Willard Diffin"
     },
     {
-      "title": "Submarines of 2060",
+      "title": "The Sea Horror",
       "author": "S. P. Meek"
     },
     {
@@ -30,7 +30,7 @@
       "author": "Harl Vincent"
     },
     {
-      "title": "The Ape-Men of Dohlaan",
+      "title": "The Ape-Men of Xlotli",
       "author": "David R. Sparks"
     }
   ],
@@ -47,12 +47,12 @@
     {
       "before": "image1antes.jpeg",
       "after": "image1depois.jpeg",
-      "caption": "Creatures of the Light - Ilustracao de capa"
+      "caption": "The Ape-Men of Xlotli - Ilustracao interna"
     },
     {
       "before": "image2antes.jpeg",
       "after": "image2depois.jpeg",
-      "caption": "The Pirate Planet - Ilustracao interna"
+      "caption": "The Ape-Men of Xlotli - Ilustracao interna"
     }
   ],
   "status": "published",
